@@ -1,22 +1,22 @@
 {
-  "sapporo":{
-    {
+  "sapporo": [
+    {
       "date":20231113,
-      "url":"https://drive.google.com/u/0/uc?id=14-UzvQvFsltTgUY38aYswWm7DQnZWfbM&export=download"
-    } ,
-     {
-       "date":20231114,
-       "url":"https://drive.google.com/u/0/uc?id=14-UzvQvFsltTgUY38aYswWm7DQnZWfbM&export=download"
-     } 
-   },
- "komatsu":{
-    {
+      "url": "https://drive.google.com/u/0/uc?id=14-UzvQvFsltTgUY38aYswWm7DQnZWfbM&export=download"
+    },
+    {
+      "date":20231114,
+      "url": "https://drive.google.com/u/0/uc?id=14-UzvQvFsltTgUY38aYswWm7DQnZWfbM&export=download"
+    }
+  ],
+  "komatsu": [
+    {
       "date":20231112,
-      "url":"https://drive.google.com/u/0/uc?id=1wBWn4Xcx0_awPnnkl4WBgUdN6Eex9tAC&export=download"
-    } ,
-     {
-       "date":20231114,
-       "url":"https://drive.google.com/u/0/uc?id=1wBWn4Xcx0_awPnnkl4WBgUdN6Eex9tAC&export=download"
-     } 
-  }
+      "url": "https://drive.google.com/u/0/uc?id=1wBWn4Xcx0_awPnnkl4WBgUdN6Eex9tAC&export=download"
+    },
+    {
+      "date":20231114,
+      "url": "https://drive.google.com/u/0/uc?id=1wBWn4Xcx0_awPnnkl4WBgUdN6Eex9tAC&export=download"
+    }
+  ]
 }
