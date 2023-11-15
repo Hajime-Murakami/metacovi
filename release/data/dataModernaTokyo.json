@@ -1,8 +1,33 @@
 {
   "data": [
     {
-      "count": 30362,
-      "date": 20230712,
+      "count": 10000,
+      "date": 20231101,
+      "link": "https://集計先データのURL"
+    },
+    {
+      "count": 15000,
+      "date": 20231105,
+      "link": "https://集計先データのURL"
+    },
+    {
+      "count": 20000,
+      "date": 20231107,
+      "link": "https://集計先データのURL"
+    },
+    {
+      "count": 25000,
+      "date": 20231108,
+      "link": "https://集計先データのURL"
+    },
+    {
+      "count": 30000,
+      "date": 20231109,
+      "link": "https://集計先データのURL"
+    },
+    {
+      "count": 35000,
+      "date": 20231111,
       "link": "https://集計先データのURL"
     }
   ]
