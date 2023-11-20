@@ -1,4 +1,10 @@
 {
+  "teiten": [
+    {
+      "date":20231120,
+      "url": "https://drive.google.com/u/0/uc?id=1OpaFPHrrXFXdCQZiHkUcNrluAY-dfBio&export=download"
+    }
+  ],
   "sapporo": [
     {
       "date":20231113,
@@ -6,6 +12,10 @@
     },
     {
       "date":20231114,
+      "url": "https://drive.google.com/u/0/uc?id=14-UzvQvFsltTgUY38aYswWm7DQnZWfbM&export=download"
+    },
+    {
+      "date":20231120,
       "url": "https://drive.google.com/u/0/uc?id=14-UzvQvFsltTgUY38aYswWm7DQnZWfbM&export=download"
     }
   ],
@@ -16,6 +26,10 @@
     },
     {
       "date":20231114,
+      "url": "https://drive.google.com/u/0/uc?id=1wBWn4Xcx0_awPnnkl4WBgUdN6Eex9tAC&export=download"
+    },
+    {
+      "date":20231120,
       "url": "https://drive.google.com/u/0/uc?id=1wBWn4Xcx0_awPnnkl4WBgUdN6Eex9tAC&export=download"
     }
   ]
