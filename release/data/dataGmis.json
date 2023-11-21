@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "count": "Test123456",
-      "year": "Test123456",
-      "week": "Test123456"
+      "count": 20,
+      "year": 2023,
+      "week": 45
     }
   ]
 }
