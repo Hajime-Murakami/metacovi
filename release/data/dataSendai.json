@@ -1,10 +1,9 @@
 {
   "data": [
     {
-      "count_test": 9336,
-      "start_date_test": 20230710,
-      "end_date_test":20230716,
-      "link": "https://集計先データのURL"
+      "count": null,
+      "start_date": null,
+      "end_date":null
     }
   ]
 }
