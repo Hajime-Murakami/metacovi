@@ -2,13 +2,11 @@
   "data": [
     {
       "count": 68362,
-      "date": 20230712,
-      "link": "https://集計先データのURL"
+      "date": 20230712
     },
     {
-      "count_test": 70000,
-      "date_test": 20231115,
-      "link": "https://集計先データのURL"
+      "count": null,
+      "date": null
     }
   ]
 }
