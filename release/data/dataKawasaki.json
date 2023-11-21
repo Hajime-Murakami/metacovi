@@ -2,38 +2,31 @@
   "data": [
     {
       "count": 100,
-      "date": 20231101,
-      "link": "https://集計先データのURL"
+      "date": 20231101
     },
     {
       "count": 200,
-      "date": 20231102,
-      "link": "https://集計先データのURL"
+      "date": 20231102
     },
     {
       "count": 300,
-      "date": 20231103,
-      "link": "https://集計先データのURL"
+      "date": 20231103
     },
     {
       "count": 400,
-      "date": 20231104,
-      "link": "https://集計先データのURL"
+      "date": 20231104
     },
     {
       "count": 500,
-      "date": 20231105,
-      "link": "https://集計先データのURL"
+      "date": 20231105
     },
     {
       "count": 600,
-      "date": 20231106,
-      "link": "https://集計先データのURL"
+      "date": 20231106
     },
     {
-      "count_test": 700,
-      "date_test": 20231108,
-      "link": "https://集計先データのURL"
+      "count": null,
+      "date": null
     }
   ]
 }
